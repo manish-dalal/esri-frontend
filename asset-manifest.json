@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/esri-frontend/static/css/main.5179dd25.chunk.css",
+    "main.js": "/esri-frontend/static/js/main.9dacca1d.chunk.js",
+    "main.js.map": "/esri-frontend/static/js/main.9dacca1d.chunk.js.map",
+    "runtime-main.js": "/esri-frontend/static/js/runtime-main.210797eb.js",
+    "runtime-main.js.map": "/esri-frontend/static/js/runtime-main.210797eb.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/esri-frontend/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.1aec4556.chunk.js": "/esri-frontend/static/js/2.1aec4556.chunk.js",
+    "static/js/2.1aec4556.chunk.js.map": "/esri-frontend/static/js/2.1aec4556.chunk.js.map",
+    "index.html": "/esri-frontend/index.html",
+    "precache-manifest.02dbf3d6e6fa4322c6a07e0bb4836102.js": "/esri-frontend/precache-manifest.02dbf3d6e6fa4322c6a07e0bb4836102.js",
+    "service-worker.js": "/esri-frontend/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/esri-frontend/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.5179dd25.chunk.css.map": "/esri-frontend/static/css/main.5179dd25.chunk.css.map",
+    "static/js/2.1aec4556.chunk.js.LICENSE": "/esri-frontend/static/js/2.1aec4556.chunk.js.LICENSE",
+    "static/media/defaultBg.jpg": "/esri-frontend/static/media/defaultBg.5f4f2e9d.jpg",
+    "static/media/logo.png": "/esri-frontend/static/media/logo.3cad687e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.210797eb.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.1aec4556.chunk.js",
+    "static/css/main.5179dd25.chunk.css",
+    "static/js/main.9dacca1d.chunk.js"
+  ]
+}
